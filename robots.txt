@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://idwqsx.github.io/sitemap.html.gz
+Sitemap: https://idwqsx.github.io/app/sitemap.html.gz
+Sitemap: https://idwqsx.github.io/assets/sitemap.html.gz
+Sitemap: https://idwqsx.github.io/css/sitemap.html.gz
+Sitemap: https://idwqsx.github.io/data/sitemap.html.gz
+Sitemap: https://idwqsx.github.io/includes/sitemap.html.gz
+Sitemap: https://idwqsx.github.io/item/sitemap.html.gz
+Sitemap: https://idwqsx.github.io/src/sitemap.html.gz
